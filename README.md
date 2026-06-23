@@ -95,8 +95,10 @@
 ## 📜 Certifications
 
 - 🟠 **DBT Fundamentals** — dbt Labs
-- 🔵 **Generative AI Workshop** — Microsoft
-- ⚙️ **Data Engineering** — Relevel (ETL, ADF, Data Lake, SQL, Power BI)
+- 🔵 **Generative AI Workshop** — Be10x
+- ⚙️ **Business Analyst** — Relevel (ETL, ADF, Data Lake, SQL, Power BI)
+- 📊 **Data Analytics and Visualization Job Simulation** — Accenture North America (Forage)
+- 🔐 **Cybersecurity Job Simulation** — Telstra (Forage)
 
 ---
 
