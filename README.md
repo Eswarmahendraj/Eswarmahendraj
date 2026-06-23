@@ -56,7 +56,7 @@
 
 ## 📁 Featured Projects
 
-### 🚚 [Quick Commerce Analytics — DBT Pipeline](https://github.com/Mahieee/dbt-quickcommerce-analytics)
+### 🚚 [Quick Commerce Analytics — DBT Pipeline](https://github.com/Ewarmahendraj/dbt-quickcommerce-analytics)
 > End-to-end DBT + DuckDB data transformation pipeline for a Quick Commerce delivery platform
 
 - Modelled 4 staging layers and 4 mart models (orders, customers, products, SLA)
@@ -68,7 +68,7 @@
 
 ---
 
-### 🧠 [NLP Text Analysis — Semantic Conversation Dataset](https://github.com/Mahieee/rich-short-text-analysis)
+### 🧠 [NLP Text Analysis — Semantic Conversation Dataset](https://github.com/Ewarmahendraj/rich-short-text-analysis)
 > Data analysis of a semantic key-controlled short text conversation knowledge base
 
 - Analysed **54 entries across 7 categories** using Python + NLTK
@@ -127,6 +127,6 @@ I'm actively looking for **Data Analyst, BI Analyst, or Product Analytics roles 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahieee&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahieee&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ewarmahendraj&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewarmahendraj&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
